@@ -1,0 +1,7 @@
+{
+  "blogService": {
+    "user": "/user",
+    "authenticate": "/authenticate",
+    "blog": "/blog"
+  }
+}
